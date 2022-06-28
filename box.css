@@ -1,0 +1,48 @@
+section{
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+}
+
+
+div {
+    width: 200px;
+    height: 200px;
+}
+#one {
+    background-color: rgb(245, 130, 22,0.8);
+    border-width: 3px;
+    border-color: rgb(248, 68, 68,0);
+    border-style: solid;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+#two {
+    background-color: rgb(245, 130, 22);
+    border: 5px dotted rgb(136, 15, 15);
+    box-sizing: border-box;
+    border-left-style: solid;
+    padding-right: 50px;
+    margin-bottom: 15px;
+    opacity: 0.5;
+    margin-top: 5px;
+}
+#three {
+    background-color: rgb(98, 204, 236);
+    border-width: 4px;
+    border-color: rgb(116, 66, 173);
+    border-style: solid;
+    border-radius: 50%;
+    box-sizing: border-box;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+h1 {
+    background-color: aquamarine;
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+button{
+    padding:10px;
+}
